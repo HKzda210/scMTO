@@ -20,5 +20,3 @@ We provide demos showing the clustering performance of scMTO:
 ### Data Availability
 The real data sets we used can be download [here](https://drive.google.com/drive/folders/1BIZxZNbouPtGf_cyu7vM44G5EcbxECeu).
 
-
-

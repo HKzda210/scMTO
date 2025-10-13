@@ -4,19 +4,19 @@ Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution for gen
 
 ![frame](frame.jpg)
 
-### Installation:
+## Installation:
 ```
 $ conda create -n scmto python=3.9.19
 $ conda activate scmto
 $ pip install -r requirements.txt
 ```
 
-### Usage
+## Usage
 We provide demos showing the clustering performance of scMTO: 
 
 - Single-cell RNA-seq data clustering analysis: [demo.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb)
 - Analysis of the large scale scRNA-seq dataset MRCA_BC: [demo_scale.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb)
 
-### Data Availability
+## Data Availability
 The real data sets we used can be download [here](https://drive.google.com/drive/folders/1BIZxZNbouPtGf_cyu7vM44G5EcbxECeu).
 

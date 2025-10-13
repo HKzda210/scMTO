@@ -4,6 +4,13 @@ Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution for gen
 
 ![frame](frame.jpg)
 
+### Installation:
+```
+$ conda create -n scmto python=3.9.19
+$ conda activate scmto
+$ pip install -r requirements.txt
+```
+
 ### Usage
 We provide several demos showing the clustering performance of scMTO: 
 
@@ -14,11 +21,4 @@ We provide several demos showing the clustering performance of scMTO:
 The real data sets we used can be download [here](https://drive.google.com/drive/folders/1BIZxZNbouPtGf_cyu7vM44G5EcbxECeu).
 
 
-### Installation Guide:
-
-```
-conda create -n scmto python=3.9.19
-conda activate scmto
-pip install -r requirements.txt
-```
 

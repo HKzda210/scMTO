@@ -17,7 +17,7 @@ The real data sets we used can be download [here](https://drive.google.com/drive
 ### Installation Guide:
 
 ```
-conda create -n scmto python=3.9.18
+conda create -n scmto python=3.9.19
 conda activate scmto
 pip install -r requirements.txt
 ```

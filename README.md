@@ -18,5 +18,5 @@ We provide demos showing the clustering performance of scMTO:
 - Analysis of the large scale scRNA-seq dataset MRCA_BC: [demo_scale.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb)
 
 ## Data Availability
-The real data sets we used can be download [here](https://drive.google.com/drive/folders/1BIZxZNbouPtGf_cyu7vM44G5EcbxECeu). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17346572.svg)](https://doi.org/10.5281/zenodo.17346572)
+The real data sets we used can be download [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17346572.svg)](https://doi.org/10.5281/zenodo.17346572).
 

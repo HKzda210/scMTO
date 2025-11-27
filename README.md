@@ -34,6 +34,6 @@ We provide demos showing the clustering performance of scMTO:
 - Single-cell RNA-seq data clustering analysis: [demo.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb)
 - Analysis of the large scale scRNA-seq dataset MRCA_BC: [demo_scale.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb)
 
-
+We give users some suggestions for running in [tutorial](https://github.com/HKzda210/scMTO/tree/master/tutorial)
 
 

@@ -20,11 +20,9 @@ Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution for gen
 ## 🚀 Quick Start
 ### Installation
 ```
-bash
 conda create -n scmto python=3.9.19
 conda activate scmto
 pip install -r requirements.txt
-
 ```
 
 ## 📁 Data Availability

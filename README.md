@@ -10,7 +10,7 @@ Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution for gen
 The real data sets we used can be download [here](https://doi.org/10.5281/zenodo.17347360).
 
 
-## Installation:
+## Installation
 ```
 $ conda create -n scmto python=3.9.19
 $ conda activate scmto

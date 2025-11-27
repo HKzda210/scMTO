@@ -36,9 +36,9 @@ The real data sets we used can be download [here](https://doi.org/10.5281/zenodo
 ## 📊 Tutorials
 We provide demos showing the clustering performance of scMTO: 
 
-- Single-cell RNA-seq data clustering analysis: [demo.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb)
-- Analysis of the large scale scRNA-seq dataset MRCA_BC: [demo_scale.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb)
+- Single-cell RNA-seq data clustering analysis: [demo.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb).
+- Analysis of the large scale scRNA-seq dataset MRCA_BC: [demo_scale.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb).
 
-We give users some suggestions for running in [tutorial](https://github.com/HKzda210/scMTO/tree/master/tutorial)
+We give users some suggestions for running in [tutorial](https://github.com/HKzda210/scMTO/tree/master/tutorial).
 
 

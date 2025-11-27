@@ -19,10 +19,10 @@ Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution for gen
   
 ## 🚀 Quick Start
 First clone the repo and cd into the directory:
-'''
+```
 git clone https://github.com/HKzda210/scMTO.git
 cd scMTO
-'''
+```
 Then create a conda env and install the dependencies:
 ```
 conda create -n scmto python=3.9.19

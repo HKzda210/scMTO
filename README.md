@@ -17,7 +17,7 @@ $ pip install -r requirements.txt
 ## Data Availability
 The real data sets we used can be download [here](https://doi.org/10.5281/zenodo.17347360).
 
-## Usage
+## 📊 Tutorials
 We provide demos showing the clustering performance of scMTO: 
 
 - Single-cell RNA-seq data clustering analysis: [demo.ipynb](https://github.com/HKzda210/scMTO/blob/master/tutorial/demo.ipynb)
